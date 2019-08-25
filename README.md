@@ -1,8 +1,8 @@
-# Pettygram :computer:
+# Pettygram :dog: :cat: :computer: 
 This is a instragram clone of pets maked in django
-##   Libraries used on the sample project :scroll:
+##   Libraries used on the sample project :books:
 
-## Demo app :books:
+## Demo app :rocket:
 insert image demo of app
 ## Do you want contribute? :clap:
 He feels free to occupy and modify the code.
