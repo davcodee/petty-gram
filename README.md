@@ -1,12 +1,12 @@
-# Pettygram :iphone: 
+# Pettygram :computer:
 This is a instragram clone of pets maked in django
 ##   Libraries used on the sample project :scroll:
 
-## Demo app :rocket:
+## Demo app :books:
 insert image demo of app
 ## Do you want contribute? :clap:
 He feels free to occupy and modify the code.
-## Developed by :computer:
+## Developed by :mailbox_with_mail:
 * David Iván Morales Campos
 * deyvid_morcam@hotmail.com
 
